@@ -11,7 +11,7 @@ My stack:
 
 #### 📫 How to reach me:
   - [telegram](https://t.me/Flower5cat)
-  - [send email](mailto:k.ekimova.job@gmail.com) - k.ekimova.job@gmail.com
+  - email: k.ekimova.job@gmail.com
 
 #### ⚡ Fun facts:
   - I'm learning Japanese.
