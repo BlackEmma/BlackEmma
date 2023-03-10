@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm Kate and I'm a fullstack developer 👩‍💻
+
+My stack:
+- Frontend: React, Redux, Redux Toolkit, JavaScript, CSS3, HTML5
+- Backend: Node.js, Express, Sequelize CLI
+- DataBase: PostgreSQL
+
+#### 🔭 I’m currently working on a [telegram bot](https://github.com/BlackEmma/tg-bot-productlist).
+
+#### 📫 How to reach me:
+  - [telegram](https://t.me/Flower5cat)
+  - [send email](mailto:k.ekimova.job@gmail.com) - k.ekimova.job@gmail.com
+
+#### ⚡ Fun facts:
+  - I'm learning Japanese.
+  - I have a YouTube channel.
+  - I'm an artist, an confectioner & fullstack developer.
+  - I have a dog (but he stayed in Saint-Petersburg 😢).
 
 <!--
 **BlackEmma/BlackEmma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
