@@ -7,7 +7,8 @@ My stack:
 - Backend: Node.js, Express, Sequelize CLI
 - DataBase: PostgreSQL
 
-#### 🔭 I’m currently working on a [telegram bot](https://github.com/BlackEmma/tg-bot-productlist).
+#### 🔭 I’m currently working on a [telegram bot](https://github.com/BlackEmma/tg-bot-productlist) & a [library-app](https://github.com/BlackEmma/bookshelf)
+#### 🌱 I’m currently learning TypeScript
 
 #### 📫 How to reach me:
   - [telegram](https://t.me/Flower5cat)
